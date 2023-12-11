@@ -42,12 +42,11 @@ The project follows a structured organization for clarity and maintainability. H
 ## Getting Started
 
 1. **Clone the Repository:**
+
     ```bash
     git clone https://github.com/iam-micah/forex-trading-bot-v1.git
     cd forex-trading-bot
     ```
-
-````
 
 2. **Install Dependencies:**
 
@@ -70,7 +69,7 @@ The project follows a structured organization for clarity and maintainability. H
     ```
 
 4. **Access the Web App:**
-    <!-- Open your web browser and go to [http://localhost:5000](http://localhost:5000). -->
+ <!-- Open your web browser and go to [http://localhost:5000](http://localhost:5000). -->
 
 ## Contributing
 
@@ -111,4 +110,7 @@ This project has no license yet.
 ```
 
 ```
-````
+
+```
+
+```

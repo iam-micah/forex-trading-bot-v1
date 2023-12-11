@@ -1,4 +1,3 @@
-````markdown
 # Forex Trading Bot
 
 ## Overview
@@ -47,6 +46,7 @@ The project follows a structured organization for clarity and maintainability. H
     git clone https://github.com/iam-micah/forex-trading-bot-v1.git
     cd forex-trading-bot
     ```
+
 ````
 
 2. **Install Dependencies:**
@@ -111,3 +111,4 @@ This project has no license yet.
 ```
 
 ```
+````

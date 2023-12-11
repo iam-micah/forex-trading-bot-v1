@@ -106,11 +106,3 @@ This project has no license yet.
 -   Thanks to the Flask and Python communities for creating excellent frameworks and tools.
 -   **IG Markets API:**
     The Forex Trading Bot utilizes the [IG Markets API](https://developer.ig.com/) to access financial market data and execute trades. Special thanks to IG Markets for providing this API.
-
-```
-
-```
-
-```
-
-```

@@ -136,11 +136,6 @@ __pycache__/
 *.pyproj
 *.pycachefile
 
-# Virtual environments
-venv/
-env/
-*.env/
-
 # Flask-specific
 instance/
 .webassets-cache
@@ -166,3 +161,6 @@ dist/
 # Miscellaneous
 .DS_Store
 *.swp
+
+# Visual Studio Code
+defs.py
